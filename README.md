@@ -1,5 +1,5 @@
 # VIBGYOR Color Segmentation
-Python implementation of the VIBGYOR Color Segmentation.
+Python implementation of the VIBGYOR Color Segmentation Algorithm.
 
 - Explanation : 
 The distance between peaks (high points) in wave is called wavelength. 
