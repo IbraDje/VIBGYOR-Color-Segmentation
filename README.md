@@ -13,3 +13,20 @@ We use a color image, as input image. We define two functions:
 •	Is to filter the different colors in the image in the space. With this function, we extract the selected color in the image
 
 Source : https://dipcsc2014.wordpress.com/author/iefyerhemlock/
+
+
+<h3>Parameters of the main function (VIBGYORsegmentation) :</h3>
+    <ul>
+        <li><u>image</u> : a 3D numpy array (plane must be equal to 3)</li>
+        <li><u>color</u> :<br><ul>
+            <li>'v' / 'V' - for <b>Violet</b> Color</li>
+            <li>'i' / 'I' - for <b>Indigo</b> Color</li>
+            <li>'b' / 'B' - for <b>Blue</b> Color</li>
+            <li>'g' / 'G' - for <b>Green</b> Color</li>
+            <li>'y' / 'Y' - for <b>Yellow</b> Color</li>
+            <li>'o' / 'O' - for <b>Orange</b> Color</li>
+            <li>'r' / 'R' - for <b>Red</b> Color</li>
+        </ul></li>
+    </ul>
+<h3>Return values :</h3>
+    <ul><li><u>C</u> : the filtered image</li></ul>
