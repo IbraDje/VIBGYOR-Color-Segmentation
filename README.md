@@ -5,12 +5,12 @@ The distance between peaks (high points) in wave is called wavelength. The wavel
 The wavelength aka VIBGYOR define the different color based on their wavelength range on the image, then segment different color light, and apply the color filter to remove the color selected.
 - Algorithm explanation:
 We use a color image, as input image. We define two functions:
-1.	Function for color image segmentation :
-•	Where we divide different objects on the image in the space. Row, column and planes.
-•	Where plane must be equal to three.
-•	Then we can select a color in the image.
-2.	Function for color filter:
-•	Is to filter the different colors in the image in the space. With this function, we extract the selected color in the image
+1.	Function for color image segmentation :<br>
+•	Where we divide different objects on the image in the space. Row, column and planes.<br>
+•	Where plane must be equal to three.<br>
+•	Then we can select a color in the image.<br>
+2.	Function for color filter:<br>
+•	Is to filter the different colors in the image in the space. With this function, we extract the selected color in the image<br>
 
 Source : https://dipcsc2014.wordpress.com/author/iefyerhemlock/
 
