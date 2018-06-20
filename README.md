@@ -14,6 +14,8 @@ We use a color image, as input image. We define two functions:
 
 Source : https://dipcsc2014.wordpress.com/author/iefyerhemlock/
 
+This code is a free segmentation tool developed by students at Laboratoire LaRATIC, Institut National des Télécommunications et des TIC d’Oran. Algeria.  Thanks for putting this reference if you use it.
+
 
 <h3>Parameters of the main function (VIBGYORsegmentation) :</h3>
     <ul>
