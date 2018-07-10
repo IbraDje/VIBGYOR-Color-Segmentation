@@ -1,6 +1,10 @@
 # VIBGYOR Color Segmentation
 Python implementation of the VIBGYOR Color Segmentation Algorithm.
 
+- <b>Thanks for adding the reference if you use the code</b> :
+    <p>{Developped by DJEMAI Ibrahim, with TAYEB BEY Abdelmohaimene
+    students at the National Instiutte of Telecommunications and ICT - Oran - Algeria, supervised by Dr. Zigh Slimane}</p>
+
 The distance between peaks (high points) in wave is called wavelength. The wavelength term is commonly use in electromagnetic radiation like radios waves, light waves or infrared (heat) waves. Each waves containing shapes and length. VIBGYOR is just the expression of the color of the spectrum of white light, which are Violet, Indigo, Blue, Green, Yellow, Orange and Red. Each color is associated with light of a particular wavelength. Red light has longer wavelengths than the blue light. The angle of deviation by a prism is not the same for the entire wavelength (colors) of light. The violet is the most deviated while the red is the least deviated.
 The wavelength aka VIBGYOR define the different color based on their wavelength range on the image, then segment different color light, and apply the color filter to remove the color selected.
 - Algorithm explanation:
