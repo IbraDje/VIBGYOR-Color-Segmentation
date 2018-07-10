@@ -1,7 +1,7 @@
 # VIBGYOR Color Segmentation
 Python implementation of the VIBGYOR Color Segmentation Algorithm.
 
-- <b>Thanks for adding the reference if you use the code</b> :
+<b>Thanks for adding the reference if you use the code</b> :
     <p>{Developped by DJEMAI Ibrahim, with TAYEB BEY Abdelmohaimene
     students at the National Instiutte of Telecommunications and ICT - Oran - Algeria, supervised by Dr. Zigh Slimane}</p>
 
